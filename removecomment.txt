@@ -1,0 +1,4 @@
+temp = 232 
+temp = a + 5
+if ( 1temp == 237 )
+temp_1 = temp * 2 
